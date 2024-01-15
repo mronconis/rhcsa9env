@@ -1,0 +1,5 @@
+*.iso
+*.vdi
+.vagrant
+.DS_Store
+venv
